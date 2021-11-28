@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Dikez</title>
+<link href="../css/style_dikez1.css" rel="stylesheet" type="text/css">
+<style>
+body{
+  background-image: url("../img/fondo-pc-fuerte.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+
+<body>
+	<header>
+		<h1>Bienvenid@ a Dikez</h1><br>
+		<h1 class="h1_pequeno">Servicio de diseño gráfico</h1>
+	</header>
+<nav>
+</nav>
+<main>
+	<div class="conjunto1">
+		<img src="../img/logo-dikez.png" alt="Logosimbolo de Dikez" id="picture_1">
+	  <p class="p"><b class="tamanoYtu">Y tú...</b><br>
+	  <r class="tamanoQue r">¿Qué necesitas decir hoy?</r></p>
+    </div>
+	<div class="contenedor">
+		<div class="elemento1">
+			<a href="conocenos.html"><img src="../img/conocenos-botón.png" alt="botón conocenos" class="elemento1"></a>
+		</div>
+		<div class="elemento2">
+			<a href= "servicios.html"><img src="../img/servicio-botón.png" alt="boton servicios" class="elemento2"></a>
+		</div>
+		<div class="elemento3">
+			<a href="cotizaciones.html"><img src="../img/cotizaciones-botón.png" alt="boton cotizaciones" class="elemento3"></a>
+		</div>
+		<div class="elemento4">
+			<a href="contacto.html"><img src="../img/contacto-botón.png" alt="boton contacto" class="elemento4"></a>
+		</div>
+	</div>
+</main>
+<footer>
+	<div class="conjunto2">
+		<div class="elemento5">
+		<h5>Dikez 2021</h5></div>
+		<div class="elemento6"> <a href="https://www.instagram.com/dikez_grafik/?hl=es" target="_blank" title="Dikez instagram"><img src="../img/insta.png" alt="boton instagram" class="elemento6"></a></div>
+	</div>
+</footer>
+</body>
+</html>
+
+![1 Optimizada](https://user-images.githubusercontent.com/95057368/143725327-2c18336b-8ce6-4287-8fe4-9bb754bc765a.jpg)
+![7-optimizada](https://user-images.githubusercontent.com/95057368/143725328-a9f4ee5a-11db-4ede-bffc-53b9e04ecd0e.jpg)
+![9-optimizada](https://user-images.githubusercontent.com/95057368/143725331-669f7c6f-3e38-4fbd-918c-a4ced618a098.jpg)
+![10-optimizada](https://user-images.githubusercontent.com/95057368/143725332-fb6443b2-d148-4279-bb7f-d9144135ae45.jpg)
+![11-optimizada](https://user-images.githubusercontent.com/95057368/143725333-552f686f-1b75-4606-90d4-5599247454ea.jpg)
+![conocenos-botón](https://user-images.githubusercontent.com/95057368/143725335-a4a137f3-092c-4839-9088-6df6d1de33d1.png)
+![conocenos-botón-claro](https://user-images.githubusercontent.com/95057368/143725336-b3a092a2-c20e-4b65-a2eb-95333fcec880.png)
+![contacto-botón](https://user-images.githubusercontent.com/95057368/143725337-97c48073-a944-42e2-a684-44298b60691c.png)
+![cotizaciones-botón](https://user-images.githubusercontent.com/95057368/143725338-e745438e-7710-4e0c-91ef-d93eabd38fdd.png)
+![dikez](https://user-images.githubusercontent.com/95057368/143725339-8c3802fa-32b6-449a-8ad3-9f0d4f3a7652.png)
+![dikez-pequeño](https://user-images.githubusercontent.com/95057368/143725340-068683a1-ff45-4d11-b21e-7b8055b8a0b4.png)
+![fondo-pc-fuerte](https://user-images.githubusercontent.com/95057368/143725341-58c5600b-1ae1-49e9-95ed-4e0f1ab3a958.jpg)
+![fondo-pc-suave](https://user-images.githubusercontent.com/95057368/143725342-59e8f371-a5d6-4ffa-96a3-4d804da5268e.jpg)
+![insta](https://user-images.githubusercontent.com/95057368/143725343-45c03845-7884-4a45-bc44-a1e20d6031fd.png)
+![logo-dikez](https://user-images.githubusercontent.com/95057368/143725344-1608882e-d672-4a71-810e-68e2419c40e7.png)
+![servicio de editorial](https://user-images.githubusercontent.com/95057368/143725345-e2183657-dba8-40e6-8edf-dc9407d5c82d.png)
+![servicio de marca](https://user-images.githubusercontent.com/95057368/143725346-e65f42de-b2ed-4a08-b0f1-36a453213482.png)
+![servicio-botón](https://user-images.githubusercontent.com/95057368/143725348-2e40c8b5-e8fd-40fe-91ac-10e0315227cc.png)
+![servicio-botón-claro](https://user-images.githubusercontent.com/95057368/143725350-3795f523-9249-4dc0-88a8-d3aa8b11ec06.png)
+
+
+https://user-images.githubusercontent.com/95057368/143725495-e04d8c62-68ae-4f36-9858-09f887ed7ee6.mp4
+
